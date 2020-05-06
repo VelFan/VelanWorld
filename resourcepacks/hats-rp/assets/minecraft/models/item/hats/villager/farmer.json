@@ -1,0 +1,98 @@
+{
+	"__comment": "Created by Oran9eUtan",
+	"textures": {
+		"particle": "item/hats/accessories/sunglasses",
+		"texture": "entity/villager/profession/farmer"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "front",
+			"from": [ 4, 4.25, 4 ],
+			"to": [ 12, 12.25, 4.005 ],
+			"faces": {
+				"north": { "uv": [ 10, 2, 12, 4 ], "texture": "#texture" },
+				"south": { "uv": [ 12, 2, 10, 4 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "back",
+			"from": [ 4, 4.25, 12 ],
+			"to": [ 12, 12.25, 12.001 ],
+			"faces": {
+				"north": { "uv": [ 16, 2, 14, 4 ], "texture": "#texture" },
+				"south": { "uv": [ 14, 2, 16, 4 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "right",
+			"from": [ 4, 4.25, 4 ],
+			"to": [ 4.001, 12.25, 12 ],
+			"faces": {
+				"west": { "uv": [ 12, 2, 14, 4 ], "texture": "#texture" },
+				"east": { "uv": [ 14, 2, 12, 4 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "left",
+			"from": [ 12, 4.25, 4 ],
+			"to": [ 12.001, 12.25, 12 ],
+			"faces": {
+				"west": { "uv": [ 10, 2, 8, 4 ], "texture": "#texture" },
+				"east": { "uv": [ 8, 2, 10, 4 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "top",
+			"from": [ 4, 12.25, 4 ],
+			"to": [ 12, 12.251, 12 ],
+			"faces": {
+				"down": { "uv": [ 10, 2, 12, 0 ], "texture": "#texture", "rotation": 180 },
+				"up": { "uv": [ 10, 0, 12, 2 ], "texture": "#texture", "rotation": 180 }
+			}
+		},
+		{
+			"__comment": "PlaneY7",
+			"from": [ 0.5, 8.25, 0.5 ],
+			"to": [ 15.5, 8.250999, 15.5 ],
+			"faces": {
+				"down": { "uv": [ 11.75, 12, 7.75, 16 ], "texture": "#texture", "rotation": 180 },
+				"up": { "uv": [ 7.75, 12, 11.75, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ -65, 0, -50 ],
+			"translation":  [ 0, -2, 2 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -65, 0, -50 ],
+			"translation":  [ 0, -2, 2 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 80, 25, -90 ],
+			"translation":  [ -3, -1, 2 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 80, 25, -90 ],
+			"translation":  [ -3, -1, 2 ]
+		},
+		"gui": {
+			"rotation":  [ 60, 0, 0 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"head": {
+			"rotation":  [ 7, 0, 0 ],
+			"translation":  [ 0, 1, -0.5 ],
+			"scale":  [ 1.88, 1.88, 1.88 ]
+		},
+		"ground": {
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"fixed": {
+			"rotation":  [ -90, 0, 0 ]
+		}
+	}
+}
