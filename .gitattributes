@@ -1,2 +1,2 @@
 * linguist-vendored
-*.jar linguist-vendored=false
+*.jar linguist-vendored=true
