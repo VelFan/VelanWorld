@@ -21,7 +21,7 @@ VelanWorld – это приватный сервер с модами VelFan'a. 
 3. Скачайте любой лаунчер или откройте имеющий. 
 4. Установите лаунчер и откройте! 
 5. Установите Forge 1.15.2
-6. Скачайте сборку с сайта: https://github.com/VelFan/VelanWorld/archive/master.zip
+6. Скачайте сборку с сайта: https://github.com/VelFan/VelanWorld/archive/assembly.zip
 7.  Распаковать архив в папку с игрой.
 8. В списке версий выбрать Forge 1.15.2
 
