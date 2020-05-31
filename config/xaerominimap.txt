@@ -15,7 +15,7 @@ showItems:true
 showOther:true
 showOtherTeam:true
 showWaypoints:true
-showIngameWaypoints:false
+showIngameWaypoints:true
 displayRedstone:true
 deathpoints:true
 oldDeathpoints:true
@@ -82,5 +82,5 @@ interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:147:-14:false:false:true:false
+interface:gui.xaero_minimap:0:0:false:false:false:false
 #WAYPOINTS HAVE BEEN MOVED TO xaerowaypoints.txt!
