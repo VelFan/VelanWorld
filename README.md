@@ -31,7 +31,7 @@ https://play.velfan.ru/pages/about.html
 
 Наш сервер
 -----
-IP:  95.165.147.8:25565
+IP:  95.165.147.8:25565 (vmf.xmc.su {mc.velfan.ru})
 
 Правила
 -----
